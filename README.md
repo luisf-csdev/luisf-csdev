@@ -1,16 +1,5 @@
 <h2> Hello everyone, Luís here 💙 </h2>  
-<p>🚀 I'm a Full Stack Web Developer who loves technology and is studying to get even better every day!<br>
-💻 Currently I work with the following stacks:</p>
-
-<div align="center">
-    <img alt="luisf-ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img alt="luisf-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img alt="luisf-vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-    <img alt="luisf-node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img alt="luisf-mongo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-    <img alt="luisf-firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-    <img alt="luisf-redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-</div>
+<p>🚀 I'm a Software Engineer passionate about computer science, and I'm always pursuing a better version of me, looking forward to changing the world bit by bit!<br>
 
 <br> 
 
