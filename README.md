@@ -1,5 +1,5 @@
 <h2> Hello everyone, Luís here 💙 </h2>  
-<p>🚀 I'm a Software Engineer passionate about computer science, and I'm always pursuing a better version of me, looking forward to change the world bit by bit!<br>
+<p>🚀 I'm a Software Engineer passionate about computer science, and I'm always pursuing a better version of me, looking forward to changing the world bit by bit!<br>
 
 <br> 
 
